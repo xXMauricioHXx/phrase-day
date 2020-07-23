@@ -1,6 +1,6 @@
 # Phrase Day
 
-This is project was maded to take some motivational phrases to make your day even more happiest
+This is project was made to take some motivational phrases to make your day even more happiest
 
 ## Made With
 
