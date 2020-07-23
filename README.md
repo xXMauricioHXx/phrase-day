@@ -8,4 +8,4 @@ This is project was maded to take some motivational phrases to make your day eve
 
 ## Author
 
-- **Mauricio Henrique** - _Initial work_ - [LinkedIn](https://github.com/PurpleBooth)
+- **Mauricio Henrique** - [LinkedIn](https://www.linkedin.com/in/mauricio-henrique-1249b5154/)
