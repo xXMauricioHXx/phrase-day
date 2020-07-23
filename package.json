@@ -1,0 +1,28 @@
+{
+  "name": "frases-do-dia",
+  "version": "1.0.0",
+  "description": "Frases do dia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --watch './src/**/*.ts' --exec 'ts-node' ./src/index.ts"
+  },
+  "author": "Mauricio Henrique",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "joi": "^17.1.1",
+    "moment-timezone": "^0.5.31",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.0",
+    "@types/cheerio": "^0.22.21",
+    "@types/express": "^4.17.7",
+    "@types/node": "^14.0.24"
+  }
+}
